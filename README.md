@@ -14,10 +14,11 @@ I'm currently pursuing a Bachelor's degree in Computer Science and Engineering. 
 - How to reach me: yashashvi.b.99@outlook.com 
 - Fun fact: Coffee is my coding fuel! ☕️ 
 
-#### Language and Tools
+#### Language,Skills and Tools
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
+##### Skills: JSP / Springboot / Docker / Jenkins / Terraform / Jira / UX-Writing and Designing 
 
 ##### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
