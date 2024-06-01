@@ -1,5 +1,5 @@
-### Hi, I'm Yashashvi B
-#### You can call me Yash.
+## Hi, I'm Yashashvi B
+### You can call me Yash.
 
 
 I'm currently pursuing a Bachelor's degree in Computer Science and Engineering. I'm passionate about DevOps technologies, User Experience (UX) design, alongside with Web development technologies.
