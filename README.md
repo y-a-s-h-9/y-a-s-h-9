@@ -3,7 +3,7 @@
 I'm currently pursuing a Bachelor's degree in Computer Science and Engineering. I'm passionate about DevOps technologies, User Experience (UX) design, alongside with Web development technologies.
 
 
-#####Skills: JS / HTML / CSS / JSP / Springboot / Docker / Jenkins / Terraform / UX-Writing and Designing
+##### Skills: JS / HTML / CSS / JSP / Springboot / Docker / Jenkins / Terraform / UX-Writing and Designing
 
 - I’m currently learning DevOps Technologies and Project Management 
 - I’m looking to collaborate on Project Management Projects 
