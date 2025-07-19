@@ -2,7 +2,7 @@
 #### You can call me Yash.
 
 
-I'm currently pursuing a Bachelor's degree in Computer Science and Engineering. I'm passionate about DevOps technologies, User Experience (UX) design, alongside with Web development technologies.
+I hold a Bachelor's degree in Computer Science and Engineering, with a passion for DevOps technologies, User Experience (UX) design, and Web development.
 
 ---
 <!-- ##### Skills: JS / HTML / CSS / JSP / Springboot / Docker / Jenkins / Terraform / UX-Writing and Designing / Jira -->
